@@ -27,8 +27,5 @@ public class Point {
     }
 }
 
-// Base abstract class
-abstract class Shape {
-    public abstract double getArea();
-}
+
 
